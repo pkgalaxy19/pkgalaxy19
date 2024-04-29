@@ -14,10 +14,13 @@ I'm a software developer with a focus on web and mobile technologies. Here's a b
 
 Skills: React, Node.js, Django, MySQL, SQLite-3, Firebase, Appwrite, and more.
 
+- 🔭 I’m currently working on Acrogram 
+- 🤔 I’m looking for help with Data Science 
+- 💬 Ask me about Software Product Development 
+- 📫 How to reach me: Email: khatripushkal19@gmail.com 
 
 
-
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pkgalaxy19)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pushkal-khatri-22b98b1bb/) 
 
 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkgalaxy19)](https://github.com/anuraghazra/github-readme-stats)
