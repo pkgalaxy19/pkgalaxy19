@@ -1,6 +1,6 @@
 ### Hi there 👋 , I am Pushkal Khatri from India
 #### Product Engineering and Software Development
-(https://i.postimg.cc/NjPsFLwq/bg-github.jpg)
+(https://i.postimg.cc/NjPsFLwq/bg-github.jpg)](https://postimg.cc/YvYKyr9b)
 
 I'm a software developer with a focus on web and mobile technologies. Here's a bit about me:
 
