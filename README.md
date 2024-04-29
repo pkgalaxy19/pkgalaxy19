@@ -15,7 +15,7 @@ Skills: React, Node.js, Django, MySQL, SQLite-3, Firebase, Appwrite, and more.
 - 🔭 I’m currently working on Acrogram 
 - 🤔 I’m looking for help with Data Science 
 - 💬 Ask me about Software Product Development 
-- 📫 How to reach me: Email: khatripushkal19@gmail.com 
+- 📫 How to reach me: Email: khatripushkal19@gmail.com  , LinkedIn : https://www.linkedin.com/in/pushkal-khatri-22b98b1bb/
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pkgalaxy19)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pushkal-khatri-22b98b1bb/) 
