@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Hi there 👋, Pushkal Khatri
+### Hi there 👋 , I am Pushkal Khatri from India
 #### Product Engineering and Software Development
 ![Product Engineering and Software Development](https://media.licdn.com/dms/image/D4D16AQFSUowGQYywxA/profile-displaybackgroundimage-shrink_350_1400/0/1714399119373?e=1720051200&v=beta&t=AlF_D8HWSHthqdtN6AE3xDQ-_ratK4JvV4g_N4CJO-M)
 
